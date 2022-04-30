@@ -1,0 +1,9 @@
+﻿body {
+    background: url("../images/bg1.jpeg") center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+p{
+    line-height:2;
+}
